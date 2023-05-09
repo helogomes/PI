@@ -13,7 +13,9 @@ Jorge Anderson De Souza Gomes
 Kervens Georges
 
 
-Trabalhamos no desenvolvimento da ideia que tivemos na primeira entrega do projeto, que é um site de um restaurante de comida japonesa.
+
+Trabalhamos no desenvolvimento prático da ideia que tivemos na primeira entrega do projeto, que é um site de um restaurante de comida japonesa.
+
 
 
 *O projeto se encontra na branch "master"
