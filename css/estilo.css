@@ -1,4 +1,4 @@
-@import url(@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 *{
 	font-family: 'Playfair Display', serif;
 	margin: 0px; padding: 0;
@@ -151,4 +151,27 @@ opacity:1;
 
 .h1{
 	margin: auto; 
+ }
+
+ .titulos{
+	text-align: center;
+	color:#CCC;
+ }
+
+ .container{
+	height: 350px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-end;
+ }
+
+ .icones{
+	margin: 5px;
+	
+ }
+
+ .dd{
+	padding-top: 150px;
+	text-align: left;
  }
