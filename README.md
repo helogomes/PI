@@ -14,7 +14,11 @@ Kervens Georges
 
 
 
+
+
 Trabalhamos no desenvolvimento prático da ideia que tivemos na primeira entrega do projeto, que é um site de um restaurante de comida japonesa.
+
+
 
 
 
